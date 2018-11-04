@@ -1,0 +1,9 @@
+c:\users\gsemo\documents\visual studio 2015\Projects\Communication\CompanyDatabae\bin\Debug\CompanyDatabae.dacpac
+c:\users\gsemo\documents\visual studio 2015\Projects\Communication\CompanyDatabae\bin\Debug\CompanyDatabae.dll
+c:\users\gsemo\documents\visual studio 2015\Projects\Communication\CompanyDatabae\bin\Debug\CompanyDatabae.pdb
+c:\users\gsemo\documents\visual studio 2015\Projects\Communication\CompanyDatabae\obj\Debug\CompanyDatabae.dll
+c:\users\gsemo\documents\visual studio 2015\Projects\Communication\CompanyDatabae\obj\Debug\CompanyDatabae.pdb
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\CompanyDatabae\obj\Debug\Model.xml
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\CompanyDatabae\obj\Debug\refactor.xml
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\CompanyDatabae\obj\Debug\postdeploy.sql
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\CompanyDatabae\obj\Debug\predeploy.sql
