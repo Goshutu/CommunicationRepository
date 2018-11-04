@@ -1,0 +1,10 @@
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\HumanResourcesTests\obj\Debug\HumanResourcesTests.csprojResolveAssemblyReference.cache
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\HumanResourcesTests\bin\Debug\HumanResourcesTests.dll.config
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\HumanResourcesTests\bin\Debug\HumanResourcesTests.dll
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\HumanResourcesTests\bin\Debug\HumanResourcesTests.pdb
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\HumanResourcesTests\bin\Debug\HumanResources.exe
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\HumanResourcesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\HumanResourcesTests\bin\Debug\HumanResources.pdb
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\HumanResourcesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\HumanResourcesTests\obj\Debug\HumanResourcesTests.dll
+C:\Users\gsemo\documents\visual studio 2015\Projects\Communication\HumanResourcesTests\obj\Debug\HumanResourcesTests.pdb
